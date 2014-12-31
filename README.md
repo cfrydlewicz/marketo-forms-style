@@ -17,3 +17,8 @@ I wrap a div classed 'embedded-marketo-form' around the Embed script Marketo use
 When setting up your Form in the 2.0 editor in Marketo Design Studio, make sure you choose their 'Plain' template. At the time of this writing, it was the last option in the list.
 
 Change the crap out of it. I've probably done lots of annoying stuff and I left my breakpoints in there out of sheer laziness. But at least you can see my work and undo it more easily than you can work on Marketo's sheets.
+
+
+Shameless Plug
+==============
+http://corryfrydlewicz.com
